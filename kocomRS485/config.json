@@ -1,8 +1,8 @@
 {
-  "name": "RS-485 Gateway",
+  "name": "kocom wallpad",
   "version": "1.0.0",
   "slug": "kocom_wallpad",
-  "description": "RS-485 Gateway for Homeassistant",
+  "description": "kocom wallpad for Homeassistant",
   "arch": [
     "armhf",
     "armv7",
