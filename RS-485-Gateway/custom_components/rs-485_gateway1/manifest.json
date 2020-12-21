@@ -1,0 +1,14 @@
+{
+  "domain": "rs_485_gateway1",
+  "name": "RS-485 Gateway 1.0",
+  "config_flow": true,
+  "documentation": "https://github.com/deletree/RS-485-Gateway",
+  "dependencies": [
+  ],
+  "codeowners": [
+    "@deletree"
+  ],
+  "requirements": [
+    "paho-mqtt>=1.5.0"
+  ]
+}
