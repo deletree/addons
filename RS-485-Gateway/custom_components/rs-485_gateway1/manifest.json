@@ -1,5 +1,5 @@
 {
-  "domain": "rs_485_gateway1",
+  "domain": "rs_485_gateway",
   "name": "RS-485 Gateway 1.0",
   "config_flow": true,
   "documentation": "https://github.com/deletree/RS-485-Gateway",
